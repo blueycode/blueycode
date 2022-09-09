@@ -40,6 +40,7 @@
 <!-- YouTube video list only show up on GitHub, not on local development -->
 
 <!-- BLOG-POST-LIST:START -->
+- [ASMR Programming - Coding a POKÉDEX - HTML, CSS and JAVASCRIPT Project](https://www.youtube.com/watch?v=ohYJswoGlH0)
 <!-- BLOG-POST-LIST:END -->
 
 [![Bluey Code's GitHub stats](https://github-readme-stats.vercel.app/api?username=blueycode&theme=dark&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
