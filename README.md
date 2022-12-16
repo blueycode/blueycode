@@ -40,6 +40,7 @@
 <!-- YouTube video list only show up on GitHub, not on local development -->
 
 <!-- BLOG-POST-LIST:START -->
+- [ASMR Programming - Animated Doritos Landing Page - HTML, CSS and JAVASCRIPT Project](https://www.youtube.com/watch?v=wq4ZCvMiyfA)
 - [ASMR Programming - Random animal facts API with Node.js &lpar;Express Framework&rpar;](https://www.youtube.com/watch?v=vY-re5SJp4k)
 - [ASMR Programming - Creating a clean GitHub profile README With GitHub actions](https://www.youtube.com/watch?v=COLLcLNNm1E)
 - [ASMR Programming - Coding a POKÉDEX - HTML, CSS and JAVASCRIPT Project](https://www.youtube.com/watch?v=ohYJswoGlH0)
