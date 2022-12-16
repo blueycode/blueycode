@@ -17,7 +17,7 @@
         width="40"
     />
     </a>
-    <a href="https://www.youtube.com/channel/UCk--nTjNkI0sVyuLtMK5unQ">
+    <a href="https://www.youtube.com/@blueycode">
     <img
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
         alt="YouTube"
