@@ -3,7 +3,6 @@
 # Hello! Welcome to Bluey Code
 
 * 🎞 Bluey Code contributes to the web development community by spreading knowledge-rich videos for free.
-* 📘 Our videos are ASMR-based, which means they are a great place to relax and learn about programming at the same time. 
 * 👨‍💻 Feel free to contribute to any of our projects.
 
 ## Connect with us
