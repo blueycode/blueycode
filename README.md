@@ -39,6 +39,7 @@
 <!-- YouTube video list only show up on GitHub, not on local development -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Create a Responsive AI Generated Landing Page - HTML, CSS and JAVASCRIPT Project](https://www.youtube.com/watch?v=iZq4cjR5M6w)
 - [Create an Animated Doritos Landing Page - HTML, CSS and JAVASCRIPT Project](https://www.youtube.com/watch?v=wq4ZCvMiyfA)
 - [Create a Random animal facts API with Node.js &lpar;Express Framework&rpar;](https://www.youtube.com/watch?v=vY-re5SJp4k)
 - [Create a clean GitHub profile README With GitHub actions](https://www.youtube.com/watch?v=COLLcLNNm1E)
