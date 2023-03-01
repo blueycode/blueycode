@@ -39,7 +39,7 @@
 <!-- YouTube video list only show up on GitHub, not on local development -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a CALCULATOR WITH THEMES - HTML, CSS and JAVASCRIPT Project](https://www.youtube.com/watch?v=0Q0Eo0eAMz8)
+- [Coding a CALCULATOR - HTML, CSS and JAVASCRIPT Project](https://www.youtube.com/watch?v=0Q0Eo0eAMz8)
 - [Create a TWITTER CLONE with ChatGPT - Beginner&#39;s Guide](https://www.youtube.com/watch?v=XrRXJQqk05M)
 - [Develop and deploy your first API with Node.js &lpar;Begineer Project&rpar;](https://www.youtube.com/watch?v=6jnx2ZCRRrg)
 - [Develop an YouTube to MP3 converter with REACT - React API Project](https://www.youtube.com/watch?v=Vna2IwPl4Kk)
