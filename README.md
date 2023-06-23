@@ -39,11 +39,11 @@
 <!-- YouTube video list only show up on GitHub, not on local development -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Coding an API-based Next.js 13 App with Tailwind CSS](https://www.youtube.com/watch?v=XKH4LHBhbnY)
 - [Create an Amazing Hotel Booking Form - HTML, CSS and JavaScript Project](https://www.youtube.com/watch?v=xwbX6y6CPS4)
 - [Create a Responsive Web Developer Portfolio Landing Page - HTML &amp; CSS Only](https://www.youtube.com/watch?v=jLKUErOg-vs)
 - [Create an Animated Food Delivery Landing Page - HTML, CSS and JavaScript Project](https://www.youtube.com/watch?v=OfDOG7MFF2k)
 - [Coding a Interactive Weight Tracking App - HTML, CSS, and JavaScript Project](https://www.youtube.com/watch?v=ZJCGaZaqi58)
-- [Coding a Clean Sign Up Page - Password Strength Check - HTML, CSS, and JavaScript Project](https://www.youtube.com/watch?v=rdKTj0WkPWo)
 <!-- BLOG-POST-LIST:END -->
 
 [![Bluey Code's GitHub stats](https://github-readme-stats.vercel.app/api?username=blueycode&theme=dark&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
